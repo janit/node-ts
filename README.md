@@ -18,6 +18,13 @@ Set a breakpoint in `src/main.ts`.
 
 Launch debugging and observe the debugger stop at the breakpoint.
 
+## Tested Environment
+
+- node 6.10.0
+- tsc 2.2.1
+- VS Code 1.10.1
+
+
 ## Reference
 
 Read more in [this article](https://medium.com/@yuhuan/debuggable-maven-style-typescript-node-js-project-set-up-for-visual-studio-code-dc6b4c18b2fe#.yg01n35o9).
