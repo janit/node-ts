@@ -7,7 +7,7 @@
       "name": "Launch Program",
       "program": "${workspaceRoot}/target/main.js",
       "sourceMaps": true,
-      "outFiles": ["${workspaceRoot}/target/*.js"]
+      "outFiles": ["${workspaceRoot}/target/*/*.js"]
     }
   ]
 }
